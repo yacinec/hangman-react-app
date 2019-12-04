@@ -1,0 +1,10 @@
+.key--clicked.btn {
+    background-color: red;
+    color: #fff;
+    box-shadow: 0px 0px 30px red;
+}
+
+.key--clicked.btn:hover {
+    background: red;
+    color: #fff;
+}

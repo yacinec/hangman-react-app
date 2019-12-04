@@ -1,0 +1,17 @@
+.word {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.word__letters {
+    display: flex;
+    justify-content: space-around;
+    color: var(--key-color);
+    font-size: 5rem;
+
+}
+
+.word__tips {
+    font-size: 2rem;
+    text-align: center;
+}

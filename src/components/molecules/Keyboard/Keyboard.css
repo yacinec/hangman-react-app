@@ -1,0 +1,13 @@
+.keyboard__keys {
+    display: flex;
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.keyboard__buttons {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,27 @@
+{
+    "words" : [
+        {
+            "value": "three",
+            "tips": "Vegetable"
+        },
+        {
+            "value": "ability",
+            "tips": "The capacity to do something"
+        },
+        {
+            "value": "boat",
+            "tips": "Water mobility"
+        },
+        {
+            "value": "horse",
+            "tips": "Animal"
+        },
+        {
+            "value": "good",
+            "tips": "Bad"
+        },
+        {
+            "value": "shop"
+        }
+    ]
+}
